@@ -17,7 +17,9 @@ To encourage active participation and interest, BlockchAIn Buddy incorporates an
 ### 3. Education
 The core of BlockchAIn Buddy's mission is education. The AI assistant is equipped with a vast repository of scientific research papers, offering credible and up-to-date information on the state of the art in blockchain technology. Users can prompt the AI to receive relevant and accurate facts, empowering them with the knowledge needed to navigate the Web3 landscape.
 
-![BlockchAInBuddy_workflow](images/BlockchAInBuddy_workflow.png)
+<p align="center">
+  <img src="images/Mass_Adoption.png" alt="Mass Adoption" width="600"/>
+</p>
 
 ## How it works
 
@@ -34,4 +36,8 @@ The AI dynamically adjusts its responses in real-time based on the user's profic
 
 This approach ensures that the chatbot is well-trained for every user's knowledge level, providing skill-level tailored answers and fostering a personalized learning experience.
 
-![Mass Adoption](images/Mass_Adoption.png)
+<p align="center">
+  <img src="images/BlockchAInBuddy_workflow.png" alt="BlockchAIn Buddy Workflow" width="600"/>
+</p>
+
+
